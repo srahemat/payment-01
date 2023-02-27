@@ -1,0 +1,3 @@
+Hello world
+yum install git -y
+git status
